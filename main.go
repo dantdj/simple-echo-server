@@ -2,7 +2,6 @@ package main
 
 import (
 	"math"
-
 	"github.com/gin-gonic/gin"
 )
 
